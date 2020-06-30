@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341956609078",
+    "firebase_url": "https://boat-shooter.firebaseio.com",
+    "project_id": "boat-shooter",
+    "storage_bucket": "boat-shooter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341956609078:android:01f3d9ce315dc62a804497",
+        "android_client_info": {
+          "package_name": "com.example.boatshooter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341956609078-vo9o1e9fed9kker0o9381cinvu4orimu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boatshooter",
+            "certificate_hash": "a05f577858a015387e7a845d835683a59c8f4a3c"
+          }
+        },
+        {
+          "client_id": "341956609078-pmsg20mc6grttoev41rsimsk3gi9hvbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ESQ2pDoeG3htuBpSc6jxmOn4lDIKxmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341956609078-pmsg20mc6grttoev41rsimsk3gi9hvbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
